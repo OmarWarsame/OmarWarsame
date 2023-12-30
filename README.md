@@ -16,4 +16,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=owarsame&show_icons=true" />
 </picture>
 
- <img src="https://drive.google.com/file/d/1iMKbXHL7v3GLRJDMwiQ-0DaNVhdDRwKQ/view?usp=drive_link)https://drive.google.com/file/d/1iMKbXHL7v3GLRJDMwiQ-0DaNVhdDRwKQ/view?usp=drive_link" alt="omar">
+ <img src="https://drive.google.com/file/d/1iMKbXHL7v3GLRJDMwiQ-0DaNVhdDRwKQ/view?usp=drive_link" alt="omar">
