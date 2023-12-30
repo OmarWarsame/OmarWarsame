@@ -14,7 +14,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=owarsame&show_icons=true" />
-  <img src="[omar-circle.png](https://drive.google.com/file/d/1iMKbXHL7v3GLRJDMwiQ-0DaNVhdDRwKQ/view?usp=drive_link)https://drive.google.com/file/d/1iMKbXHL7v3GLRJDMwiQ-0DaNVhdDRwKQ/view?usp=drive_link" alt="Italian Trulli">
+  <img src="https://drive.google.com/file/d/1iMKbXHL7v3GLRJDMwiQ-0DaNVhdDRwKQ/view?usp=drive_link)https://drive.google.com/file/d/1iMKbXHL7v3GLRJDMwiQ-0DaNVhdDRwKQ/view?usp=drive_link" alt="Italian Trulli">
 
  
 </picture>
