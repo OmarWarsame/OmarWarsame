@@ -37,7 +37,7 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarwarsame&show_icons=true&locale=en" alt="omarwarsame" />
   </div>
   <div class="column">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarwarsame&" alt="omarwarsame" />
+  <img align="right" width= "300"src="https://github-readme-streak-stats.herokuapp.com/?user=omarwarsame&" alt="omarwarsame" />
   </div>
 </div>
 
