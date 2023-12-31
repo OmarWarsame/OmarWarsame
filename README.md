@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate about software development automation</h3>
  <img align= "right" alt= "Coding" width= "400" src= "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2023/05/27/s3-well-defined-comment.gif">
-<p align="left"> <img src="https://drive.google.com/file/d/1iMKbXHL7v3GLRJDMwiQ-0DaNVhdDRwKQ/view?usp=drive_link" /> </p>
+<img align="left"  src="https://drive.google.com/file/d/1iMKbXHL7v3GLRJDMwiQ-0DaNVhdDRwKQ/view?usp=drive_link">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarwarsame&label=Profile%20views&color=0e75b6&style=flat" alt="omarwarsame" /> </p>
 
