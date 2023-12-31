@@ -31,16 +31,15 @@
 
 .column {
   float: left;
-  width: 33.33%;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+.left, .right {
+  width: 25%;
 }
 
+.middle {
+  width: 50%;
+}
 <div class="row">
   <div class="column">1</div>
   <div class="column">2</div>
