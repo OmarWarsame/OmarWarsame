@@ -1,4 +1,4 @@
- <img align= "centre" alt= "Coding" width= "1050" height="200" src= "https://forum.huawei.com/enterprise/api/file/v1/small/thread/713171601807249408.gif?appid=esc_en">
+ <img align= "centre" alt= "Coding" width= "1050" height="200" src= "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*C-cPP9D2MIyeexAT.gif">
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">I am passionate about software development and automation</h3>
