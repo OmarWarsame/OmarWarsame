@@ -1,4 +1,4 @@
- <img align= "centre" alt= "Coding" width= "1050" height="200" src= "https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
+ <img align= "centre" alt= "Coding" width= "1050" height="200" src= "https://forum.huawei.com/enterprise/api/file/v1/small/thread/713171601807249408.gif?appid=esc_en">
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">I am passionate about software development and automation</h3>
