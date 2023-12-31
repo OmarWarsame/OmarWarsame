@@ -34,7 +34,7 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarwarsame&show_icons=true&locale=en&layout=compact" alt="omarwarsame" />
   </div>
   <div class="column">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarwarsame&show_icons=true&locale=en&layout=compact" alt="omarwarsame" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarwarsame&show_icons=true&locale=en" alt="omarwarsame" />
   </div>
   <div class="column">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarwarsame&" alt="omarwarsame" />
