@@ -1,4 +1,4 @@
- <img align= "centre" alt= "Coding" width= "1050" height="400" src= "https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+ <img align= "centre" alt= "Coding" width= "1050" height="400" src= "https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">I am passionate about software development and automation</h3>
