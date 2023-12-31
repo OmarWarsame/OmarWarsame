@@ -1,7 +1,7 @@
  <img align= "centre" alt= "Coding" width= "1050" height="400" src= "https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">A passionate about software development automation</h3>
+<h3 align="center">I am passionate about software development and automation</h3>
  <img align= "right" alt= "Coding" width= "400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!--<img align="left"  src="https://drive.google.com/file/d/1iMKbXHL7v3GLRJDMwiQ-0DaNVhdDRwKQ/view?usp=drive_link"> -->
 
