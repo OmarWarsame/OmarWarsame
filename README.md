@@ -31,13 +31,13 @@
 
 <div class="row">
   <div class="column">
-   <img width= "300" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarwarsame&show_icons=true&locale=en&layout=compact" alt="omarwarsame" />
+   <img width= "300" align= "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarwarsame&show_icons=true&locale=en&layout=compact" alt="omarwarsame" />
   </div>
   <div class="column">
-  &nbsp;<img  width= "300" src="https://github-readme-stats.vercel.app/api?username=omarwarsame&show_icons=true&locale=en" alt="omarwarsame" />
+  &nbsp;<img  width= "300" align= "center" src="https://github-readme-stats.vercel.app/api?username=omarwarsame&show_icons=true&locale=en" alt="omarwarsame" />
   </div>
   <div class="column">
-  <img width= "300"src="https://github-readme-streak-stats.herokuapp.com/?user=omarwarsame&" alt="omarwarsame" />
+  <img width= "300" align= "right" src="https://github-readme-streak-stats.herokuapp.com/?user=omarwarsame&" alt="omarwarsame" />
   </div>
 </div>
 
