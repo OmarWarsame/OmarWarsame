@@ -1,4 +1,4 @@
- <img align= "center" alt= "Coding" width= "1000" height="100" src= "https://share.creavite.co/Rgyc11fTVk5CkQV7.gif">
+ <img align= "center" alt= "Coding" width= "1050" height="100" src= "https://share.creavite.co/Rgyc11fTVk5CkQV7.gif">
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">I am passionate about software development and automation</h3>
