@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate about software development automation</h3>
- <img align= "right" alt= "Coding" width= "400" src= "https://colab.research.google.com/drive/16b5Q70-Oy1281UDGgeAna8OOQVrKr3-4">
+ <img align= "right" alt= "Coding" width= "400" src= "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwinjOWhtLiDAxX4micCHUZLD7QQMygXegUIARCaAQ..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F3848914-Programmer-Thomas&docid=JaoX1Z03zMxihM&w=800&h=600&q=man%20coding%20gif&ved=2ahUKEwinjOWhtLiDAxX4micCHUZLD7QQMygXegUIARCaAQ">
 <!--<img align="left"  src="https://drive.google.com/file/d/1iMKbXHL7v3GLRJDMwiQ-0DaNVhdDRwKQ/view?usp=drive_link"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarwarsame&label=Profile%20views&color=0e75b6&style=flat" alt="omarwarsame" /> </p>
