@@ -1,4 +1,4 @@
- <img align= "center" alt= "Coding" width= "300" height="200" src= "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*C-cPP9D2MIyeexAT.gif">
+ <img align= "right" alt= "Coding" width= "300" height="200" src= "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*C-cPP9D2MIyeexAT.gif">
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">I am passionate about software development and automation</h3>
